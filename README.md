@@ -1,4 +1,4 @@
-Autonomous vehicle website version 1
+Autonomous vehicle website version 2
 By Janvy Tetteh
 Github: @janvycodes
 Twitter: @janvycodes
